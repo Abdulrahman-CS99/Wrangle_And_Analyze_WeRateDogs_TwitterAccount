@@ -7,4 +7,4 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 I used another source provided by Udacity that predict the breed of the dog based on the Nurel network algorithm. I also used tweepy library to get more information about the twets like the number of retweets and favourites.
 
 
-This project was from [Data Analyst Nanodegree by Udacity ](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+This project was from [Data Analyst Nanodegree by Udacity ](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
